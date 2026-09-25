@@ -1,8 +1,8 @@
-# Glance tickers
+# Combined dashboard
 
-Same repo, two boards. Star this repo in the GitHub app.
+Open these and refresh:
 
-- **Flight:** [TICKER.md](./TICKER.md) · [index.html](./index.html)
-- **Storm 02124:** [STORM.md](./STORM.md) · [storm.html](./storm.html)
+- **Phone glance (markdown):** [DASHBOARD.md](./DASHBOARD.md)
+- **Dark two-pane page:** [index.html](./index.html)
 
 Repo: https://github.com/charlie-kilo13/pd615-ticker
