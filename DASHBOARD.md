@@ -1,6 +1,6 @@
 # Boston trip weather and flight info
 
-Updated 10:31 EDT Fri 25 Sep 2026
+Updated 10:45 EDT Fri 25 Sep 2026
 
 ## Flight PD615 — COMPLETE · LANDED EARLY
 FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 08:40, gate BOS E6 08:46 EDT (19 min early). E195-E2. Massport: Arrived · Terminal E · E6 · bags 12. FAA BOS (14:24 UTC / 10:24 EDT): on time; dest delays none; general arr/dep 15 min or less. Flight watch complete — no further flight action.
@@ -10,7 +10,7 @@ FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 
 
 **GO now–13:00** — dry. High ~17–19 °C. NE ~34–39 km/h, gusts ~51–61 km/h (hard to walk into on gusts; small branches already moving). Best walking window. **~2 hours left** in GO.
 
-**STILL OK 13:00–15:00** — still usable. PoP 6–14%. Gusts ~61–64 km/h. Finish long walks. Usable block ends 15:00 (~4.5 hours from 10:31).
+**STILL OK 13:00–15:00** — still usable. PoP 6–14%. Gusts ~61–64 km/h. Finish long walks. Usable block ends 15:00 (~4 hours from 10:45).
 
 **WRAP 15:00–17:00** — PoP crosses ~20% at 16:00. Gusts hit ~65 km/h at 16:00 (41 mph). Poor for long sightseeing.
 
@@ -25,6 +25,7 @@ NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&F
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 10:45 EDT — Combined-board refresh. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS 10:24 on time / 15 min or less). Storm clock kept (NWS zone 10:02 / point 09:23). GO now–13:00 (~2 h left).
 - 10:31 EDT — Combined-board refresh. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS 10:24 on time / 15 min or less). Storm clock kept (NWS zone 10:02 / point 09:23). GO now–13:00 (~2 h left).
 - 10:20 EDT — Combined-board rewrite. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS on time / 15 min or less). Storm: kept outdoor clock; added NWS Suffolk zone 10:02 (afternoon PoP 30%, tonight 50%, Sat 90%, HWW to 02:00 Sun). GO now–13:00 (~2.5 h left).
 - 10:00 EDT — outdoor clock from NWS digital 06:43 + AFD 02:59 + KBOS 07:54 (12 °C, N 19 km/h). Rain *not* earlier than 16:00. Gusts already ~50 km/h; ~65 at 16:00; ~80 after 01:00 Sat. PoP 20% 16:00 / 40% 20:00 / 60% 05:00 Sat. GO now–13:00 (~3 h left). Globe: leading showers Boston around/after 17:00 — later than NWS 16:00 PoP-20. Flight COMPLETE.
