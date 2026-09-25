@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="60">
+<title>02124 storm ticker</title>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: ui-sans-serif, system-ui, sans-serif; margin: 0; background: #0b0f14; color: #e8edf2; }
+  header { padding: 16px 20px 8px; }
+  h1 { font-size: 18px; margin: 0 0 4px; }
+  .sub { color: #8aa0b5; font-size: 13px; }
+  .card { margin: 12px 16px; padding: 14px 16px; background: #151b22; border: 1px solid #243040; border-radius: 12px; }
+  .warn { color: #ffb020; font-weight: 700; letter-spacing: .03em; }
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  td { padding: 6px 0; vertical-align: top; }
+  td:first-child { color: #8aa0b5; width: 96px; }
+  .note { background: #1b2430; padding: 10px 12px; border-radius: 8px; font-size: 14px; line-height: 1.4; }
+  .log { font-size: 13px; color: #b7c5d3; }
+  a { color: #7ec8ff; }
+</style>
+</head>
+<body>
+<header>
+  <h1>02124 storm · Dorchester</h1>
+  <div class="sub">Four Corners / Washington &amp; Park · inland · auto-refresh 60s</div>
+</header>
+<div class="card">
+  <div class="warn">HIGH WIND WARNING FROM 08:00</div>
+  <table>
+    <tr><td>Now</td><td>51°F · partly cloudy · N 13 mph · dry · Logan 05:54</td></tr>
+    <tr><td>Today</td><td>High ~63 · NE 16–25, gusts ~40 · slight rain after 15:00</td></tr>
+    <tr><td>Tonight</td><td>Rain after ~02:00 · N 26–29, gusts ~55</td></tr>
+    <tr><td>Flood</td><td>Coastal warning from 17:00 — <b>not</b> this intersection</td></tr>
+    <tr><td>Trees</td><td>Risk tonight–Sat, not this morning</td></tr>
+    <tr><td>Do now</td><td>Short trips OK. Stay in tonight.</td></tr>
+  </table>
+</div>
+<div class="card">
+  <div class="sub">Text her</div>
+  <div class="note">Morning in Dorchester is just breezy and cloudy, no rain yet. Wind warning starts at 8am but the real gusts and rain are tonight after midnight. You are inland — no coastal flooding on your block. Stay in tonight.</div>
+</div>
+<div class="card log">
+  <div class="sub">Log</div>
+  <p>07:14 EDT — seeded. Wind warning 08:00. Rain after ~02:00 Sat.</p>
+</div>
+<div class="card sub">
+  <a href="https://forecast.weather.gov/MapClick.php?lat=42.284&amp;lon=-71.074">NWS Dorchester</a> ·
+  <a href="https://www.weather.gov/box">NWS Boston</a> ·
+  <a href="TICKER.md">Flight ticker</a>
+</div>
+</body>
+</html>
