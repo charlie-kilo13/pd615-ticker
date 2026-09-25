@@ -95,12 +95,10 @@
 </div>
 <div class="card log" style="margin:0 16px 16px">
   <h2>Log</h2>
+  <p>11:36 EDT — Refresh now uses same-URL reload only (no ?r=). Fixes iOS TypeError: Load failed.</p>
   <p>11:20 EDT — :20 slot. Combined board. NWS hourly 11:20: rain not earlier than 16:00. Gusts ~65 km/h ~02:00 Sat. GO now–13:00 (~1.5 h left).</p>
-  <p>11:03 EDT — Header now shows Last synced + Refresh button + iOS pull-to-reload. Keep this chrome on every rewrite.</p>
-  <p>11:02 EDT — Combined board. NWS digital 09:23: rain not earlier than 16:00. Gusts ~65 km/h ~02:00 Sat. GO now–13:00 (~2 h left).</p>
-  <p>10:51 EDT — Weather cadence every 20 min (:00 / :20 / :40). Flight watches paused.</p>
-  <p>10:45 EDT — Combined board. Flight COMPLETE. Storm clock kept.</p>
-  <p>10:20 EDT — NWS Suffolk zone 10:02. Afternoon PoP 30%, tonight 50%, Sat 90%.</p>
+  <p>11:03 EDT — Header Last synced + Refresh + iOS pull-to-reload.</p>
+  <p>10:51 EDT — Weather cadence every 20 min. Flight watches paused.</p>
   <p>09:26 EDT — Landed ~08:40 E6 / bags 12. Flight watch complete.</p>
   <p class="sub" style="margin-top:10px">
     <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a> ·
@@ -113,12 +111,17 @@
 <script>
 (function () {
   function hardReload() {
-    var url = new URL(window.location.href);
-    url.searchParams.set('r', String(Date.now()));
-    window.location.replace(url.toString());
+    try {
+      window.location.reload();
+    } catch (err) {
+      window.location.href = window.location.href;
+    }
   }
   var btn = document.getElementById('refreshBtn');
-  if (btn) btn.addEventListener('click', hardReload);
+  if (btn) btn.addEventListener('click', function (e) {
+    e.preventDefault();
+    hardReload();
+  });
 
   var ptr = document.getElementById('ptr');
   var startY = 0;
