@@ -1,6 +1,6 @@
-# PD615 + 02124 dashboard
+# Boston trip information
 
-Updated 09:22 EDT Fri 25 Sep 2026
+Updated 09:23 EDT Fri 25 Sep 2026
 
 ## Flight PD615 — COMPLETE · LANDED EARLY
 Massport FIDS: Arrived · E · E6 · bags 12. Comes off the page at noon.
@@ -24,6 +24,7 @@ NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 
 ## Log
+- 09:23 EDT — renamed to Boston trip information
 - 09:22 EDT — outdoor clock from NWS hourly. GO now–13:00; wrap long walks by 15:00; rain chance 16:00; peak overnight.
 - 09:19 EDT — refresh. Flight COMPLETE E6 / bags 12.
 - 09:15 EDT — Massport FIDS Arrived E6 / 12.
