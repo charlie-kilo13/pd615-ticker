@@ -19,7 +19,7 @@
   .warn { color: #ffb020; font-weight: 700; }
   table { width: 100%; border-collapse: collapse; font-size: 15px; }
   td { padding: 5px 0; vertical-align: top; }
-  td:first-child { color: #8aa0b5; width: 84px; }
+  td:first-child { color: #8aa0b5; width: 92px; }
   .note { background: #1b2430; padding: 10px 12px; border-radius: 8px; font-size: 14px; line-height: 1.4; margin-top: 8px; }
   .log { font-size: 13px; color: #b7c5d3; }
   a { color: #7ec8ff; }
@@ -28,43 +28,40 @@
 <body>
 <header>
   <h1>PD615 + 02124</h1>
-  <div class="sub">One board · pull to refresh · page reloads every 60s · 09:19 EDT · Massport + NWS</div>
+  <div class="sub">One board · 09:22 EDT · NWS hourly outdoor clock · °C / km/h</div>
 </header>
 <div class="grid">
   <div class="card">
     <h2>Flight PD615</h2>
-    <div class="ok">COMPLETE · ARRIVED (LOGAN BOARD)</div>
+    <div class="ok">COMPLETE · ARRIVED</div>
     <table>
-      <tr><td>Massport</td><td>PD615 YYZ · Term <b>E</b> · Gate <b>E6</b> · Bags <b>12</b> · Arrived</td></tr>
-      <tr><td>Depart</td><td>YYZ T3 <b>A18</b> · today’s flight off Pearson board</td></tr>
-      <tr><td>Arrive</td><td>Landed early (~08:40) · BOS E <b>E6</b></td></tr>
-      <tr><td>Do now</td><td>On the ground. Bags 12. Inbound watch done.</td></tr>
+      <tr><td>Massport</td><td>E / <b>E6</b> / bags <b>12</b> · Arrived</td></tr>
+      <tr><td>Do now</td><td>On the ground. Flight block off the page at noon.</td></tr>
     </table>
-    <div class="note">Official Logan board: Arrived, Terminal E gate E6, carousel 12. Pearson has already rolled to tomorrow’s PD615.</div>
+    <div class="note">Official Logan board: Arrived Terminal E gate E6, carousel 12.</div>
   </div>
   <div class="card">
-    <h2>Storm 02124</h2>
-    <div class="warn">HIGH WIND WARNING IN EFFECT</div>
+    <h2>Storm 02124 — outdoor clock</h2>
+    <div class="warn">HIGH WIND WARNING · BEST WINDOW NOW–13:00</div>
     <table>
-      <tr><td>Now</td><td>12 °C · dry · N ~19 km/h — leaves rustling</td></tr>
-      <tr><td>Next 3–6h</td><td>Still dry · NE building · gusts ~65 km/h — hard to walk into</td></tr>
-      <tr><td>Tonight</td><td>Rain after ~02:00 · gusts ~90 km/h — storm force</td></tr>
-      <tr><td>Flood</td><td>Coastal Warning from 17:00 — <b>not</b> Washington & Park</td></tr>
-      <tr><td>Do now</td><td>Short trips OK this morning. Stay in tonight.</td></tr>
+      <tr><td>Now–13:00</td><td><b>GO</b> — dry, PoP 0%. ~12–16 °C. Breezy ~32 km/h, gusts ~50 km/h by 10:00 — flags / small branches. Best walking.</td></tr>
+      <tr><td>13:00–15:00</td><td><b>STILL OK</b> — dry. Gusts hit ~64 km/h by 15:00 — hard to walk into. Finish long walks.</td></tr>
+      <tr><td>15:00–17:00</td><td><b>WRAP</b> — first rain chance after 16:00 (PoP ~20%). Poor for long sightseeing.</td></tr>
+      <tr><td>Evening</td><td><b>IN</b> — PoP ~40% by 20:00. Gusts ~80+ km/h after 22:00. Rain likely after ~02:00 Sat (~90 km/h gusts).</td></tr>
+      <tr><td>Flood</td><td>Coastal Warning 17:00 — <b>not</b> Washington & Park</td></tr>
     </table>
-    <div class="note">About 12 °C and dry. High Wind Warning is on. Afternoon gusts ~65 km/h. Real rain and ~90 km/h gusts after midnight. Inland — no coastal flooding on her block. Stay in tonight.</div>
+    <div class="note">Best walking window is now through about 1pm — dry, breezy, not yet nasty. Finish long walks by 3pm when gusts hit ~65 km/h. First rain chance after 4pm. Real rain and storm-force gusts overnight into Saturday. Inland — no coastal flooding on her block. Stay in tonight.</div>
   </div>
 </div>
 <div class="card log" style="margin:0 16px 16px">
   <h2>Log</h2>
-  <p>09:19 EDT — refresh. Flight still COMPLETE E6 / bags 12. KBOS 07:54: 12 °C, N 19 km/h, dry. Alerts unchanged.</p>
-  <p>09:15 EDT — Massport FIDS: PD615 Arrived, E / E6 / bags 12.</p>
-  <p>09:10 EDT — COMPLETE from aggregator boards; bags 12.</p>
+  <p>09:22 EDT — NWS hourly outdoor clock. GO now–13:00. Wrap long walks by 15:00. Rain chance 16:00. Peak overnight.</p>
+  <p>09:15 EDT — Massport FIDS: PD615 Arrived E6 / bags 12.</p>
   <p class="sub" style="margin-top:10px">
-    <a href="https://webfids.massport.com/all/arrivals">Massport arrivals</a> ·
-    <a href="https://www.massport.com/logan-airport/flights/flight-status">Massport flight status</a> ·
-    <a href="https://www.flyporter.com/en-us/manage-flights/flight_status">Porter status lookup</a> ·
-    <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a>
+    <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a> ·
+    <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital">NWS hourly</a> ·
+    <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">NWS discussion</a> ·
+    <a href="https://webfids.massport.com/all/arrivals">Massport arrivals</a>
   </p>
 </div>
 </body>
