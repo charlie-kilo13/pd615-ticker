@@ -11,7 +11,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>Boston trip weather and flight info</title>
+<title>Storm 02124 — outdoor clock</title>
 <style>
   :root { color-scheme: dark; }
   html, body { height: 100%; }
@@ -39,7 +39,6 @@
   }
   .refresh-btn:active { background: #243040; }
   .grid { display: grid; gap: 12px; padding: 8px 16px 20px; }
-  @media (min-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } }
   .card { padding: 14px 16px; background: #151b22; border: 1px solid #243040; border-radius: 12px; }
   .ok { color: #3dd68c; font-weight: 700; }
   .warn { color: #ffb020; font-weight: 700; }
@@ -61,52 +60,33 @@
 <div id="ptr">Release to refresh</div>
 <header>
   <div class="titles">
-    <h1>Boston trip weather and flight info</h1>
-    <div class="synced">Last synced <span id="syncedAt">11:40 EDT Fri 25 Sep</span></div>
-    <div class="sub">One board · weather every 20 min · flight COMPLETE · °C / km/h</div>
+    <h1>Storm 02124 — outdoor clock</h1>
+    <div class="synced">Last synced <span id="syncedAt">12:00 EDT Fri 25 Sep</span></div>
+    <div class="sub">One board · weather every 20 min · °C / km/h</div>
   </div>
   <button type="button" class="refresh-btn" id="refreshBtn">Refresh</button>
 </header>
 <div class="grid">
   <div class="card">
-    <h2>Flight PD615</h2>
-    <div class="ok">COMPLETE · LANDED EARLY</div>
-    <table>
-      <tr><td>Status</td><td>On the ground. Flight watch done.</td></tr>
-      <tr><td>Massport</td><td>E / <b>E6</b> / bags <b>12</b> · Arrived</td></tr>
-      <tr><td>Path</td><td>YYZ T3 → BOS E</td></tr>
-      <tr><td>Watch</td><td>Flight automations paused — inbound done</td></tr>
-      <tr><td>Do now</td><td>Use the walking window.</td></tr>
-    </table>
-    <div class="note">Official Logan board: Arrived Terminal E gate E6, carousel 12. Flight watch complete — no further flight action. Clock times dropped from noon Fri.</div>
-  </div>
-  <div class="card">
     <h2>Storm 02124 — outdoor clock</h2>
-    <div class="warn">HIGH WIND WARNING · GO NOW–13:00 · ~1.3 H LEFT</div>
+    <div class="warn">HIGH WIND WARNING · GO NOW–13:00 · ~1 H LEFT</div>
     <table>
-      <tr><td>Now–13:00</td><td><b>GO</b> — dry. High ~18–19 °C. NE 32–37 km/h, gusts ~55. Best walking. ~1.3 h left.</td></tr>
+      <tr><td>Now–13:00</td><td><b>GO</b> — dry. High ~18–19 °C. NE 32–37 km/h, gusts ~55. Best walking. ~1 h left.</td></tr>
       <tr><td>13:00–15:00</td><td><b>STILL OK</b> — PoP 6–14%. Gusts ~55. Finish long walks by 15:00.</td></tr>
       <tr><td>15:00–17:00</td><td><b>WRAP</b> — PoP ~20% at 16:00. Gusts still ~55 km/h then building overnight.</td></tr>
-      <tr><td>Evening</td><td><b>IN</b> — PoP ~40% 20:00. Gusts ~65 from 02:00 Sat; ~80+ from 10:00 Sat.</td></tr>
-      <tr><td>Flood</td><td>Coastal Warning 17:00 — <b>not</b> Washington & Park</td></tr>
+      <tr><td>Evening</td><td><b>IN</b> — PoP ~41% 20:00. Gusts ~65 from 02:00 Sat; ~80+ from 10:00 Sat.</td></tr>
+      <tr><td>Flood</td><td>Coastal Warning 17:00 — <b>not</b> this inland block</td></tr>
     </table>
     <div class="note">Timing: rain is not earlier than 16:00. Gusts ~65 km/h not until ~02:00 Sat (not by 15:00). Best walking now through 1pm. Finish long walks by 3pm. First rain chance about 4pm. Stay in tonight. Inland — no coastal flooding on this block.</div>
   </div>
 </div>
 <div class="card log" style="margin:0 16px 16px">
   <h2>Log</h2>
-  <p>11:40 EDT — :40 slot. Combined board. PD615 times removed. NWS digital 09:23: rain not earlier than 16:00. Gusts ~65 km/h ~02:00 Sat. GO now–13:00 (~1.3 h left).</p>
-  <p>11:36 EDT — Refresh now uses same-URL reload only (no ?r=). Fixes iOS TypeError: Load failed.</p>
-  <p>11:20 EDT — :20 slot. Combined board. NWS hourly 11:20: rain not earlier than 16:00. Gusts ~65 km/h ~02:00 Sat. GO now–13:00 (~1.5 h left).</p>
-  <p>11:03 EDT — Header Last synced + Refresh + iOS pull-to-reload.</p>
-  <p>10:51 EDT — Weather cadence every 20 min. Flight watches paused.</p>
-  <p>09:26 EDT — Landed. E6 / bags 12. Flight watch complete.</p>
+  <p>12:00 EDT — One-page board. Flight pane dropped. Storm 02124 only. NWS hourly 11:20 / grid 09:23: rain not earlier than 16:00. Gusts ~65 km/h ~02:00 Sat. GO now–13:00 (~1 h left).</p>
   <p class="sub" style="margin-top:10px">
     <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a> ·
     <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital">NWS hourly</a> ·
-    <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">NWS discussion</a> ·
-    <a href="https://webfids.massport.com/all/arrivals">Massport arrivals</a> ·
-    <a href="https://www.flightaware.com/live/flight/POE615">FlightAware PD615</a>
+    <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">NWS discussion</a>
   </p>
 </div>
 <script>
