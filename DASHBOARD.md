@@ -1,6 +1,6 @@
 # Storm 02124 — outdoor clock
 
-Updated 18:20 EDT Fri 25 Sep 2026 · NWS hourly generated 18:20 · grid 14:27 · weather every 20 min
+Updated 18:40 EDT Fri 25 Sep 2026 · NWS hourly generated 18:40 · grid 14:27 · weather every 20 min
 
 ## Alerts
 - High Wind Warning ON until **08:00 Sun**
@@ -14,7 +14,7 @@ Updated 18:20 EDT Fri 25 Sep 2026 · NWS hourly generated 18:20 · grid 14:27 ·
 
 **IN from 18:00** — stay in. PoP **36% at 18:00**, **48% at 19:00**, **61% at 20:00**. Overnight PoP hangs ~51–59%, then dips ~39% at 05:00 Sat before rising. Next ~60% after that dip is **07:00 Sat** (62%), 73% at 08:00. High ~17 °C this evening. NE ~35 km/h, gusts ~54 km/h now (small branches moving; gusts feel hard to walk into). Grid gusts stay ~52–56 km/h tonight. First ~65 km/h gusts **~05:00 Sat** (~69); mid-Sat grid gusts ~70 km/h.
 
-Timing: first ~20% rain chance was this afternoon. First ~40% is **19:00** (48%). First ~60% is **20:00** (61%). Afternoon/evening gusts ~54 km/h — *not* 65 km/h by 18:20.
+Timing: first ~20% rain chance was this afternoon. First ~40% is **19:00** (48%). First ~60% is **20:00** (61%). Afternoon/evening gusts ~54 km/h — *not* 65 km/h by 18:40.
 
 KBOS METAR 17:54 EDT: dry 18 °C NNE 35 G54 km/h (peak 56 at 16:59). Still dry.
 
@@ -27,8 +27,8 @@ NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&F
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 18:40 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:40 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 19:00 (48%); ~60% 20:00 (61%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
 - 18:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:20 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 19:00 (48%); ~60% 20:00 (61%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
 - 18:06 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:06 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~06:00 Sat. IN from 18:00.
 - 17:40 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 15:40 / grid 09:23. KBOS METAR 16:54 dry 17 °C NNE 35 G56 km/h. First ~20% rain was 16:00 (23%); ~40% 20:00 (41%); ~60% ~05:00 Sat (61%). Gusts ~66 km/h ~03:00 Sat. WRAP 15:00–18:00 (~0.3 h left).
 - 17:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 14:01 / grid 09:23. KBOS METAR 16:54 dry 17 °C NNE 35 G56 km/h. First ~20% rain was 16:00 (23%); ~40% 20:00 (41%); ~60% ~05:00 Sat (61%). Gusts ~66 km/h ~03:00 Sat. WRAP 15:00–18:00 (~0.5 h left).
-- 17:00 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 16:49 / grid 14:27. KBOS METAR 16:54 dry 17 °C NNE 35 G56 km/h. First ~20% rain 18:00 (27%); ~40% 20:00 (49%); ~60% ~08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. WRAP 15:00–18:00 (~1 h left).
