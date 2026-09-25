@@ -1,9 +1,9 @@
 # Boston trip weather and flight info
 
-Updated 09:45 EDT Fri 25 Sep 2026
+Updated 10:00 EDT Fri 25 Sep 2026
 
 ## Flight PD615 — COMPLETE · LANDED EARLY
-FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 08:40, gate BOS E6 08:46 EDT (19 min early). E195-E2. Massport: Arrived · Terminal E · E6 · bags 12. FAA BOS: on time / dest delays none. Flight watch complete — no further flight action.
+FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 08:40, gate BOS E6 08:46 EDT (19 min early). E195-E2. Massport: Arrived · Terminal E · E6 · bags 12. FAA BOS: on time / dest delays none / arrival delays 15 min or less. Flight watch complete — no further flight action.
 
 ## Storm 02124 — outdoor clock (NWS Norton 09:23 + Suffolk zone)
 High Wind Warning ON until 02:00 Sun. Coastal Flood Warning from 17:00 — waterfront only, **not** Washington & Park.
@@ -24,6 +24,7 @@ NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 
 ## Log
+- 10:00 EDT — refresh: still COMPLETE / gate-in 08:46 E6 bags 12. FAA BOS on time, arrival delays 15 min or less. NWS 09:23 storm clock held. Flight watch complete.
 - 09:45 EDT — refresh: FlightAware gate-in 08:46 E6. FAA BOS on time. NWS 09:23: high ~19 °C, afternoon PoP 30%, High Wind Warning still on. Flight watch complete.
 - 09:30 EDT — refresh: still COMPLETE / landed ~08:40 E6 bags 12. FAA BOS 15 min or less. Storm clock unchanged.
 - 09:26 EDT — live confirm: landed ~08:40, E6 / bags 12. Flight watch complete.
