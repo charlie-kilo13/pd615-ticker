@@ -1,38 +1,34 @@
 # Boston trip weather and flight info
 
-Updated 10:45 EDT Fri 25 Sep 2026
+Updated 10:51 EDT Fri 25 Sep 2026 · weather cadence every 20 min
 
 ## Flight PD615 — COMPLETE · LANDED EARLY
-FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 08:40, gate BOS E6 08:46 EDT (19 min early). E195-E2. Massport: Arrived · Terminal E · E6 · bags 12. FAA BOS (14:24 UTC / 10:24 EDT): on time; dest delays none; general arr/dep 15 min or less. Flight watch complete — no further flight action.
+FlightAware: left YYZ Gate A18 07:14 EDT (11 min early), airborne 07:29, landed 08:40, gate BOS E6 08:46 EDT (19 min early). E195-E2. Massport: Arrived · Terminal E · E6 · bags 12. Flight watch complete — no further flight action. Flight 15-min automations paused.
 
-## Storm 02124 — outdoor clock (NWS Norton zone 10:02 + point 09:23)
-**Timing note:** Rain is *not* earlier than 16:00. PoP still ~14% at 15:00 and first crosses ~20% at **16:00**. Gusts already ~50 km/h this morning (not waiting until 15:00). ~65 km/h gusts from **16:00**. ~80 km/h after **01:00 Sat**. High Wind Warning ON until 02:00 Sun. Coastal Flood Warning from 17:00 — waterfront only, **not** Washington & Park. Zone 10:02: this afternoon chance of rain 30%; tonight 50%; Sat 90% with gusts up to 60 mph (~97 km/h) on the coast / ~80+ inland after midnight.
+## Storm 02124 — outdoor clock (NWS digital 09:23)
+**Timing note:** Rain is *not* earlier than 16:00. PoP ~2% at 11:00, ~14% at 15:00, first crosses ~20% at **16:00**. Gusts already ~55 km/h this morning (34 mph). ~65 km/h gusts from **16:00**. ~80 km/h after **01:00 Sat**. High Wind Warning ON until 02:00 Sun. Coastal Flood Warning from 17:00 — waterfront only, **not** Washington & Park.
 
-**GO now–13:00** — dry. High ~17–19 °C. NE ~34–39 km/h, gusts ~51–61 km/h (hard to walk into on gusts; small branches already moving). Best walking window. **~2 hours left** in GO.
+**GO now–13:00** — dry. High ~17–19 °C. NE ~29–35 km/h, gusts ~53–55 km/h (hard to walk into on gusts; small branches already moving). Best walking window. **~2 hours left** in GO.
 
-**STILL OK 13:00–15:00** — still usable. PoP 6–14%. Gusts ~61–64 km/h. Finish long walks. Usable block ends 15:00 (~4 hours from 10:45).
+**STILL OK 13:00–15:00** — still usable. PoP 6–14%. Gusts ~53–55 km/h. Finish long walks. Usable block ends 15:00 (~4 hours from 10:51).
 
-**WRAP 15:00–17:00** — PoP crosses ~20% at 16:00. Gusts hit ~65 km/h at 16:00 (41 mph). Poor for long sightseeing.
+**WRAP 15:00–17:00** — PoP crosses ~20% at 16:00. Gusts ~55 km/h holding, then building tonight.
 
-**IN by evening** — PoP ~40% at **20:00**, ~50% late evening, ~60% **05:00 Sat**. Saturday rain (PoP 80–90%), gusts ~80–85 km/h overnight into Sat (storm-force on the water; inland hard walking / limb risk).
+**IN by evening** — PoP ~40% at **20:00**, ~50% late evening. Saturday rain (PoP 80–90%), gusts ~80–89 km/h overnight into Sat.
 
-Do now: on the ground. Use the morning window. Be near cover by mid-afternoon. No ocean-flood worry on this block.
+Do now: use the morning window. Be near cover by mid-afternoon. No ocean-flood worry on this block.
 
-Text: Landed early — on the ground at Logan E6 around 8:46. Best walking window is now through 1pm — dry, high about 17–19 °C, already gusty (~50 km/h; leaves and small branches moving, gusts feel hard to walk into). Finish long walks by 3pm. First real rain chance about 4pm (PoP ~20%), gusts ~65 km/h then. Stay in tonight — rain likely after midnight into Saturday, stronger wind overnight. You are inland — no coastal flooding at Washington & Park.
+Text: Best walking window is now through 1pm — dry, high about 17–19 °C, already gusty (~55 km/h; leaves and small branches moving, gusts feel hard to walk into). Finish long walks by 3pm. First real rain chance about 4pm (PoP ~20%). Stay in tonight — rain likely after midnight into Saturday, stronger wind overnight. You are inland — no coastal flooding at Washington & Park.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
-- 10:45 EDT — Combined-board refresh. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS 10:24 on time / 15 min or less). Storm clock kept (NWS zone 10:02 / point 09:23). GO now–13:00 (~2 h left).
-- 10:31 EDT — Combined-board refresh. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS 10:24 on time / 15 min or less). Storm clock kept (NWS zone 10:02 / point 09:23). GO now–13:00 (~2 h left).
-- 10:20 EDT — Combined-board rewrite. Flight still COMPLETE (FA gate-in 08:46 E6; Massport Arrived E6 bags 12; FAA BOS on time / 15 min or less). Storm: kept outdoor clock; added NWS Suffolk zone 10:02 (afternoon PoP 30%, tonight 50%, Sat 90%, HWW to 02:00 Sun). GO now–13:00 (~2.5 h left).
-- 10:00 EDT — outdoor clock from NWS digital 06:43 + AFD 02:59 + KBOS 07:54 (12 °C, N 19 km/h). Rain *not* earlier than 16:00. Gusts already ~50 km/h; ~65 at 16:00; ~80 after 01:00 Sat. PoP 20% 16:00 / 40% 20:00 / 60% 05:00 Sat. GO now–13:00 (~3 h left). Globe: leading showers Boston around/after 17:00 — later than NWS 16:00 PoP-20. Flight COMPLETE.
-- 09:45 EDT — refresh: FlightAware gate-in 08:46 E6. FAA BOS on time. NWS 09:23: high ~19 °C, afternoon PoP 30%, High Wind Warning still on. Flight watch complete.
-- 09:30 EDT — refresh: still COMPLETE / landed ~08:40 E6 bags 12. FAA BOS 15 min or less. Storm clock unchanged.
-- 09:26 EDT — live confirm: landed ~08:40, E6 / bags 12. Flight watch complete.
-- 09:24 EDT — renamed to Boston trip weather and flight info
-- 09:23 EDT — renamed to Boston trip information
-- 09:22 EDT — outdoor clock from NWS hourly. GO now–13:00; wrap long walks by 15:00; rain chance 16:00; peak overnight.
-- 09:15 EDT — Massport FIDS Arrived E6 / 12.
+- 10:51 EDT — Pivoted to weather every 20 min (:00 / :20 / :40). Flight 15-min watches paused. NWS digital 09:23 unchanged: rain not earlier than 16:00. GO now–13:00 (~2 h left).
+- 10:45 EDT — Combined-board refresh. Flight still COMPLETE. Storm clock kept. GO now–13:00 (~2 h left).
+- 10:31 EDT — Combined-board refresh. Flight still COMPLETE. Storm clock kept.
+- 10:20 EDT — Combined-board rewrite. NWS Suffolk zone 10:02. GO now–13:00 (~2.5 h left).
+- 10:00 EDT — outdoor clock from NWS digital. Rain not earlier than 16:00. Gusts already ~50 km/h; ~65 at 16:00. GO now–13:00.
+- 09:45 EDT — FlightAware gate-in 08:46 E6. Flight watch complete.
+- 09:26 EDT — live confirm: landed ~08:40, E6 / bags 12.
