@@ -1,37 +1,37 @@
 # Storm 02124 — outdoor clock
 
-Updated 20:20 EDT Fri 25 Sep 2026 · NWS hourly generated 20:20 · grid 14:27 · weather every 20 min
+Updated 20:19 EDT Fri 25 Sep 2026 · NWS hourly generated 19:53 · grid 14:27 · weather every 20 min
 
 ## Alerts
 - High Wind Warning ON until **02:00 Sun**
 - Coastal Flood Warning from **17:00 Fri** through **20:00 Sun** — waterfront only, **not** this inland block
 - High Surf Advisory through Sun 20:00 (coast)
 
-## Clock
-**GO ended 13:00.** Late-morning dry window is closed.
-**STILL OK ended 15:00.** That usable block is closed.
-**WRAP ended 18:00.** Usable-ish wrap-up is closed.
+## Now
+**Stay in tonight.** Light rain at Logan. ~17 °C. NNE 26 G41 km/h (peak 52). PoP 49% this hour, ~50% late evening. Gusts feel like a stiff walk — hats want to leave.
 
-**IN from 18:00** — stay in. PoP **49% at 20:00**, **50% at 21:00–22:00**, **51% at 23:00**. Overnight PoP hangs ~50%, then dips **29% at 05:00 Sat** before rising. Next ~60% after that dip is **08:00 Sat** (66%). About 18 °C now. KBOS NE 39 km/h, gusts 61 km/h (peak 61 at 18:53); latest official METAR still dry, 10 SM. Gusts feel like a stiff walk — hats want to leave; not branch-moving at Logan right now. Grid gusts stay ~52 km/h tonight. First ~65 km/h gusts **~05:00 Sat** (64); mid-Sat grid gusts ~74–77 km/h.
+## Next three segments
+**Overnight** — On-and-off rain ~50%, dip ~29% near 05:00 Sat. First ~65 km/h grid gusts ~05:00 Sat. Stay put. No waterfront drive.
 
-Timing: first ~20% rain chance was this afternoon. First ~40% is **20:00** (49%) — this hour. First ~60% is **08:00 Sat** (66%). Evening grid gusts ~52 km/h — *not* a 65 km/h grid hour yet.
+**Sat morning** — Steadier rain. PoP 54% by 07:00, 66% at 08:00, 83% by 11:00. NBC10: mid-morning turn to steadier rain. Short indoor trip only if needed.
 
-KBOS METAR 18:54 EDT: dry 18 °C NE 39 G61 km/h (peak 61 at 18:53). TAF TEMPO light rain into the evening.
+**Sat afternoon** — Soak. PoP 89–100%, heavy after ~16:00. Grid gusts ~74–78 km/h. Boston 25: limit travel. Worst of wind/rain Sat afternoon–night. Stay indoors. Do not count on Logan for a same-day hop.
+
+## Local vs NWS
+NWS and NBC10 / WCVB / Boston 25 agree on the shape: rain is starting, Saturday is the problem day in Greater Boston, coast takes the flood and the strongest gusts. Local TV is a bit wetter/sooner on Saturday evening intensity; NWS hourly still shows the first solid ~60% at 08:00 Sat. Rain can linger Monday as the low hangs around.
 
 Do now: stay in. No outdoor work. No ocean-flood worry on this block.
 
-Text: Walking window closed at 1pm; still-OK closed at 3pm; wrap-up closed at 6pm. Stay in tonight. About 18 °C. Gusts ~61 km/h now at Logan; feel like a stiff walk, hats want to leave. First ~20% rain chance already hit this afternoon. First real ~40% is 8pm (49%) — now. First ~60% about 8am Sat (66%). Rain chance holds overnight ~50%, dips near dawn, then likely Saturday morning. Stronger wind Saturday morning (~65 km/h from 5am Sat). You are inland — no coastal flooding on this block.
+Text: Stay in tonight. Light rain already, about 17 °C, gusts ~41 km/h (peak 52) — stiff walk, hats want to leave. Overnight is on-and-off rain, not the worst of it. Saturday morning turns steadier after 8am. Saturday afternoon is the soak and the stronger wind — limit travel, stay inside. You are inland. Coastal flood is the waterfront, not this block. Logan is already taking storm delays.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
+NBC10: https://www.nbcboston.com/news/local/massachusetts-noreaster-storm-to-impact-boston-cape-cod/4020755/
+WCVB: https://www.wcvb.com/article/noreaster-forecast-massachusetts-regions-shore-coast-boston-metrowest-central-sept-2026/73885283
+Boston 25: https://www.boston25news.com/news/local/fall-noreaster-2026-live-updates-mass-drivers-urged-limit-travel-during-powerful-storm/KQFTF5Q6I5EDTEUGBMWW7TFHSI/
 
 ## Log
-- 20:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 20:20 / grid 14:27. KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h (peak 61 at 18:53). First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 20:08 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 20:08 / grid 14:27. KBOS METAR 19:54 light rain 17 °C NNE 26 G41 km/h (peak 52 at 19:06). First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 19:40 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 19:40 / grid 14:27. KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 19:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 19:20 / grid 14:27. KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 19:01 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:06 / grid 14:27. KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 18:40 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:40 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 19:00 (48%); ~60% 20:00 (61%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 18:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:20 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 19:00 (48%); ~60% 20:00 (61%). Gusts ~65 km/h ~05:00 Sat. IN from 18:00.
-- 18:06 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 18:06 / grid 14:27. KBOS METAR 17:54 dry 18 °C NNE 35 G54 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 km/h ~06:00 Sat. IN from 18:00.
+- 20:19 EDT — Combined board only. Flight pane off. Replaced Closed with Overnight / Sat morning / Sat afternoon. Retitled IN to Now · Fri eve. NWS vs NBC10/WCVB/Boston 25. KBOS 19:54 light rain 17 °C NNE 26 G41.
+- 20:20 EDT — Prior clock pass (superseded layout). KBOS 18:54 dry 18 °C NE 39 G61 in that pass; 19:54 is newer and shows light rain.
+- 20:08 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). Storm 02124 clock. NWS hourly generated 20:08 / grid 14:27. KBOS METAR 19:54 light rain 17 °C NNE 26 G41 km/h (peak 52 at 19:06).
