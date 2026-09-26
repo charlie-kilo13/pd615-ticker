@@ -1,11 +1,11 @@
 # Storm 02124 — outdoor clock
 
-Updated 07:00 EDT Sat 26 Sep 2026 · NWS digital last update 04:51 Sat · weather every 20 min
+Updated 07:20 EDT Sat 26 Sep 2026 · NWS digital last update 04:51 Sat · weather every 20 min
 
 One board. Storm + log only. PD615 inbound watch complete — removed. Return card Mon 28: AWAITING NUMBER.
 
 ## Now
-- KBOS last NWS stamp 06:35 EDT Sat: light rain and mist, **13 °C**, NNE **28 km/h**, morning peak **48** at 05:22 (later gust 43 at 06:10). ~3 SM.
+- KBOS last NWS stamp 06:54 EDT Sat: light rain and mist, **14 °C**, N **32 km/h** G **45**, morning peak **48** at 05:22 (27 kt / 50 at 04:41). 3 SM.
 - Grid 07:00 Sat: **14 °C**, PoP **50%**, NE ~37 km/h, gusts **~67**.
 
 ## Alerts
@@ -32,6 +32,7 @@ NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&F
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 07:20 EDT Sat 26 Sep 2026 — :20 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 06:54: 14 °C N 32 G45, light rain/mist, 3 SM; METAR peak 48 at 05:22. Grid 07:00 14 °C PoP 50% gust ~67. IN from 18:00.
 - 07:00 EDT Sat 26 Sep 2026 — :00 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 06:35: 13 °C NNE 28, light rain/mist, ~3 SM; METAR peak 48 at 05:22. Grid 07:00 14 °C PoP 50% gust ~67. IN from 18:00.
 - 06:40 EDT Sat 26 Sep 2026 — :40 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 05:54: 14 °C NNE 30 peak 48, light rain/mist, 4 SM. Grid 06:00 13 °C PoP 41% gust ~66. IN from 18:00.
 - 06:20 EDT Sat 26 Sep 2026 — :20 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 04:54: 14 °C NE 28 peak 50, rain/mist, 3 SM. Grid 06:00 14 °C PoP 45% gust ~64. IN from 18:00.
