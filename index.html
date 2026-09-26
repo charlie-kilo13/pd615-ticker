@@ -44,7 +44,7 @@
   .warn { color: #ffb020; font-weight: 700; }
   table { width: 100%; border-collapse: collapse; font-size: 15px; }
   td { padding: 5px 0; vertical-align: top; }
-  td:first-child { color: #8aa0b5; width: 92px; }
+  td:first-child { color: #8aa0b5; width: 108px; }
   .note { background: #1b2430; padding: 10px 12px; border-radius: 8px; font-size: 14px; line-height: 1.4; margin-top: 8px; }
   .log { font-size: 13px; color: #b7c5d3; }
   a { color: #7ec8ff; }
@@ -61,7 +61,7 @@
 <header>
   <div class="titles">
     <h1>Storm 02124 — outdoor clock</h1>
-    <div class="synced">Last synced <span id="syncedAt">20:08 EDT Fri 25 Sep</span></div>
+    <div class="synced">Last synced <span id="syncedAt">20:19 EDT Fri 25 Sep</span></div>
     <div class="sub">One board · weather every 20 min · °C / km/h</div>
   </div>
   <button type="button" class="refresh-btn" id="refreshBtn">Refresh</button>
@@ -69,23 +69,28 @@
 <div class="grid">
   <div class="card">
     <h2>Storm 02124 — outdoor clock</h2>
-    <div class="warn">HIGH WIND WARNING · IN FROM 18:00 · STAY IN</div>
+    <div class="warn">HIGH WIND WARNING · STAY IN TONIGHT</div>
     <table>
-      <tr><td>18:00–on</td><td><b>IN</b> — PoP 49% at 20:00, 50% at 21:00–22:00, 51% at 23:00. Overnight ~50%. Dawn dip 29% at 05:00 Sat. Next ~60%: 08:00 Sat (66%). KBOS now light rain 17 °C, NNE 26 G41 km/h (peak 52). Grid gusts ~52 tonight. First ~65 ~05:00 Sat (65). Mid-Sat grid gusts ~74–78.</td></tr>
-      <tr><td>Closed</td><td>GO ended 13:00. STILL OK ended 15:00. WRAP ended 18:00.</td></tr>
+      <tr><td>Now · Fri eve</td><td><b>Stay in.</b> Light rain already at Logan. ~17 °C. NNE 26 G41 km/h (peak 52). PoP 49% this hour, ~50% through late evening. Gusts feel like a stiff walk — hats want to leave. Skip leftover outdoor work and non-essential errands.</td></tr>
+      <tr><td>Overnight</td><td>On-and-off rain ~50% PoP, brief dip toward 29% near 05:00 Sat. Grid gusts ~52 km/h; first ~65 around 05:00 Sat. NWS and local TV agree: bands thicken from the southeast. Plan: stay put. Do not drive the waterfront for high tide.</td></tr>
+      <tr><td>Sat morning</td><td>Steadier rain. PoP 54% by 07:00, 66% at 08:00, 83% by 11:00. ~14 °C. Winds building. NBC10: quick change to steadier rain mid-morning. WCVB: strongest metro impacts Saturday. Plan: if you must move, do a short indoor trip early; do not schedule outdoor time.</td></tr>
+      <tr><td>Sat afternoon</td><td>The soak. PoP 89–100%, heavy rain after ~16:00. Grid gusts ~74–78 km/h. Boston 25: limit travel. Local TV vs NWS: both put the worst wind/rain Saturday into Saturday night, not tonight. Plan: stay indoors. Logan already seeing storm delays — do not count on a same-day hop.</td></tr>
       <tr><td>Alerts</td><td>High Wind Warning to 02:00 Sun. Coastal Warning 17:00 Fri–20:00 Sun — waterfront only, <b>not</b> this inland block</td></tr>
     </table>
-    <div class="note">Timing: first ~20% rain chance already this afternoon. First ~40% is 20:00 (49%) — this hour. First ~60% is 08:00 Sat (66%). Gusts ~41 km/h now at Logan (peak 52); grid first ~65 is 05:00 Sat. Walking window closed at 1pm. Still-OK closed at 3pm. Wrap closed at 6pm. Stay in tonight. Light rain started at Logan. Inland — no coastal flooding on this block.</div>
+    <div class="note">NWS hourly: first ~40% is now (49%); first ~60% 08:00 Sat (66%). NBC10 / WCVB / Boston 25: long-duration nor’easter, 3–6 in possible east of I-95, gusts 40–50 mph in the city and higher on the coast, storm slow to leave (rain can linger Mon). You are already on the ground in 02124 — treat Saturday as a stay-in day. Inland block does not flood from the ocean.</div>
   </div>
 </div>
 <div class="card log" style="margin:0 16px 16px">
   <h2>Log</h2>
+  <p>20:19 EDT — Combined board only. Flight pane off. Dropped Closed row. Now / Overnight / Sat morning / Sat afternoon. NWS hourly generated 19:53 / grid 14:27. KBOS 19:54 light rain 17 °C NNE 26 G41 km/h. Local TV: limit Saturday travel; worst Sat afternoon–night.</p>
   <p>20:08 EDT — Combined board only. Flight pane off. Storm 02124 clock. NWS hourly generated 20:08 / grid 14:27. KBOS METAR 19:54 light rain 17 °C NNE 26 G41 km/h (peak 52 at 19:06). First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 ~05:00 Sat. IN from 18:00.</p>
-  <p>19:40 EDT — Combined board only. Flight pane off. Storm 02124 clock. NWS hourly generated 19:40 / grid 14:27. KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h. First ~20% rain was this afternoon; ~40% 20:00 (49%); ~60% 08:00 Sat (66%). Gusts ~65 ~05:00 Sat. IN from 18:00.</p>
   <p class="sub" style="margin-top:10px">
     <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a> ·
     <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital">NWS hourly</a> ·
-    <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">NWS discussion</a>
+    <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">NWS discussion</a> ·
+    <a href="https://www.nbcboston.com/news/local/massachusetts-noreaster-storm-to-impact-boston-cape-cod/4020755/">NBC10</a> ·
+    <a href="https://www.wcvb.com/article/noreaster-forecast-massachusetts-regions-shore-coast-boston-metrowest-central-sept-2026/73885283">WCVB</a> ·
+    <a href="https://www.boston25news.com/news/local/fall-noreaster-2026-live-updates-mass-drivers-urged-limit-travel-during-powerful-storm/KQFTF5Q6I5EDTEUGBMWW7TFHSI/">Boston 25</a>
   </p>
 </div>
 <script>
