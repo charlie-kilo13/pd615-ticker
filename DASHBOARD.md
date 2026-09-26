@@ -1,6 +1,6 @@
 # Storm 02124 — outdoor clock
 
-Updated 20:23 EDT Fri 25 Sep 2026 · NWS hourly generated 20:20 · grid 14:27 · weather every 20 min
+Updated 20:40 EDT Fri 25 Sep 2026 · NWS hourly generated 20:20 · grid 14:27 · weather every 20 min
 
 ## Now
 - KBOS 19:54 EDT: light rain, 17 °C, NE 26 G41 km/h, 10 SM, peak 52 at 19:06
@@ -26,5 +26,6 @@ NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&F
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 20:40 EDT — :40 slot. Combined board only. Flight pane off (post-12:00 Fri). KBOS 19:54 light rain 17 °C NE 26 G41 (peak 52). KOWD 16 °C G28. IN from 18:00.
 - 20:23 EDT — Glance now-bar + hour chips. Combined board only. Flight pane off. KBOS 19:54 light rain 17 °C NE 26 G41 (peak 52). KOWD 16 °C G28. IN from 18:00.
 - 20:20 EDT — Combined board only. Flight pane stays off (post-12:00 Fri). KBOS METAR 18:54 dry 18 °C NE 39 G61 km/h.
