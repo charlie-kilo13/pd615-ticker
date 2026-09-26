@@ -1,12 +1,12 @@
 # Storm 02124 — outdoor clock
 
-Updated 08:40 EDT Sat 26 Sep 2026 · NWS digital last update 07:49 Sat · weather every 20 min
+Updated 09:16 EDT Sat 26 Sep 2026 · NWS digital last update 07:49 Sat · weather every 20 min
 
 One board. Storm + log only. PD615 inbound watch complete — removed. Return card Mon 28: AWAITING NUMBER.
 
 ## Now
-- KBOS last NWS stamp 07:54 EDT Sat: light rain, **14 °C**, NNE **41 km/h** G **57**, peak **57** at 07:53 (31 kt). Earlier peaks 50 at 06:17 / 48 at 05:22. 3 SM. Rain ended :23 then back on :52.
-- Grid / hourly 08:00 Sat: **14 °C**, PoP **100%**, NE ~39 km/h, gusts **~70**.
+- KBOS last NWS stamp 08:54 EDT Sat: light rain/mist, **13 °C**, NNE **50 km/h** G **69**, peak **69** at 08:54 (37 kt). Earlier peaks 67 at 08:50 / 65 at 08:37 / 57 at 07:53. 3 SM.
+- Grid / hourly 09:00 Sat: **14 °C**, PoP **100%**, NE ~40 km/h, gusts **~72**.
 
 ## Alerts
 - High Wind Warning ON until Sunday 08:00
@@ -17,21 +17,22 @@ One board. Storm + log only. PD615 inbound watch complete — removed. Return ca
 **GO ended 13:00. STILL OK ended 15:00. WRAP ended 18:00.**
 **IN from 18:00** — stay in.
 
-PoP **100% at 08:00 Sat** and stays 100% through tonight.
+PoP **100% at 09:00 Sat** and stays 100% through tonight.
 
-Grid gusts **~70 now** (08:00). ~72 by 09:00 Sat. Mid-Sat ~74–76. Not yet 80+.
+Grid gusts **~72 now** (09:00). Mid-Sat ~74–76. Not yet 80+.
 
 Wind feel: 5 km/h = leaves rustling · 20–28 km/h = small branches moving · ~65 km/h gusts = hard to walk into · ~90 km/h = storm force / small branches can break.
 
-Do now: stay in. Gusts at the hard-walk line. Light rain on at Logan. No outdoor work. No ocean-flood worry on this block.
+Do now: stay in. Gusts at the hard-walk line and a bit over. Light rain/mist on at Logan. No outdoor work. No ocean-flood worry on this block.
 
-Copy-paste: IN from 18:00. PoP 100% now. Gusts ~70 now, ~76 mid-Sat.
+Copy-paste: IN from 18:00. PoP 100% now. Gusts ~72 now, ~76 mid-Sat.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 09:16 EDT Sat 26 Sep 2026 — :16 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 08:54: 13 °C NNE 50 G69, light rain/mist, 3 SM; METAR peak 69 at 08:54. Grid 09:00 14 °C PoP 100% gust ~72. IN from 18:00.
 - 08:40 EDT Sat 26 Sep 2026 — :40 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 07:54: 14 °C NNE 41 G57, light rain, 3 SM; METAR peak 57 at 07:53. Grid 08:00 14 °C PoP 100% gust ~70. IN from 18:00.
 - 08:22 EDT Sat 26 Sep 2026 — :20 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 07:54: 14 °C NNE 41 G57, light rain, 3 SM; METAR peak 57 at 07:53. Grid 08:00 14 °C PoP 100% gust ~70. IN from 18:00.
 - 08:02 EDT Sat 26 Sep 2026 — :00 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS 07:54: 14 °C NNE 41 G57, light rain, 3 SM; METAR peak 57 at 07:53. Grid 08:00 14 °C PoP 100% gust ~70. IN from 18:00.
