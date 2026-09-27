@@ -1,12 +1,12 @@
 # Storm 02124 — outdoor clock
 
-Updated 10:40 EDT Sun 27 Sep 2026 · NWS digital last update 07:24 Sun · weather every 20 min
+Updated 11:15 EDT Sun 27 Sep 2026 · NWS digital last update 07:24 Sun · weather every 20 min
 
 One board. Storm + log only. PD615 inbound watch complete — removed. Return card Mon 28: AWAITING NUMBER.
 
 ## Now
-- KBOS last full METAR **09:54 EDT Sun**: rain / fog-mist, **15 °C**, NE **44 km/h** G **65**, vis **1.5 SM**. PK WND **67** at 09:20 (36 kt). No newer full METAR by 10:40. Prior full METAR **08:54**: rain / fog-mist, **15 °C**, NE 35 G **52**, vis **1.25 SM**, PK **69** at 07:58 (37 kt). Prior **07:54**: heavy rain / fog-mist, **14 °C**, NE 46 G **65**, vis **1.5 SM**, PK **76** at 07:08 (41 kt). Overnight PK **93** at 23:59 Sat (50 kt). **Session peak 93 at 19:59 Sat** (also 93 at 23:59).
-- Grid / hourly: **17 °C** 10–14 Sun. Hourly PoP **95/94/92/89/87** 10–14 Sun. Grid gusts **~63** at 09–10, **~61** at 11–12, **~56** at 13, **~54** at 14.
+- KBOS last full METAR **10:54 EDT Sun**: light rain / mist, **15 °C**, NNE **43 km/h** G **59**, vis **2.5 SM**. PK WND **61** at 10:39 (33 kt). Prior full METAR **09:54**: rain / fog-mist, **15 °C**, NE 44 G **65**, vis **1.5 SM**, PK **67** at 09:20 (36 kt). Prior **08:54**: rain / fog-mist, **15 °C**, NE 35 G **52**, vis **1.25 SM**, PK **69** at 07:58 (37 kt). Overnight PK **93** at 23:59 Sat (50 kt). **Session peak 93 at 19:59 Sat** (also 93 at 23:59).
+- Grid / hourly: **17 °C** 11–14 Sun. Hourly PoP **94/92/89/87** 11–14 Sun. Grid gusts **~61** at 11–12, **~56** at 13, **~54** at 14.
 
 ## Alerts
 - High Wind Warning **ended 08:00 Sun** (cancelled overnight; window now closed)
@@ -17,27 +17,23 @@ One board. Storm + log only. PD615 inbound watch complete — removed. Return ca
 
 ## Clock
 **GO ended 13:00. STILL OK ended 15:00. WRAP ended 18:00 Sat.**
-**IN from 18:00 Sat** — stay in now. WRAP closed (~16 h 40 min ago). Wind warning window closed at 08:00; METAR gusts still on the 65 hard-walk line from the 09:54 obs (G 65, PK 67 at 09:20).
+**IN from 18:00 Sat** — stay in now. WRAP closed (~17 h 15 min ago). Wind warning window closed at 08:00; last METAR gusts **off** the 65 hard-walk line (G 59, PK 61 at 10:39). Rain still on.
 
-PoP **94%** at 11 Sun, **92%** at 12, **89%** at 13, **87%** at 14. Rain **on** at Logan 09:54.
+PoP **94%** at 11 Sun, **92%** at 12, **89%** at 13, **87%** at 14. Light rain **on** at Logan 10:54.
 
-Grid gusts **~61** at 11–12. Observed session peak **93 at 19:59 Sat**. Station 09:54 gust **65** km/h (PK 67 at 09:20). On the 65 hard-walk line on last full METAR; rain and vis keep it IN.
+Grid gusts **~61** at 11–12. Observed session peak **93 at 19:59 Sat**. Station 10:54 gust **59** km/h (PK 61 at 10:39). Off the 65 line on last full METAR; rain and PoP keep it IN.
 
 Wind feel: 5 km/h = leaves rustling · 20–28 km/h = small branches moving · ~65 km/h gusts = hard to walk into · ~90 km/h = storm force / small branches can break.
 
-Do now: stay in. Rain on, vis 1.5 SM, last METAR gust 65 / PK 67. No outdoor work. No ocean-flood worry on this block. WRAP closed 18:00 Sat. Wind warning window closed 08:00. Watch street puddles / small streams through 13:00.
+Do now: stay in. Light rain on, vis 2.5 SM, last METAR gust 59 / PK 61. No outdoor work. No ocean-flood worry on this block. WRAP closed 18:00 Sat. Wind warning window closed 08:00. Watch street puddles / small streams through 13:00.
 
-Copy-paste: IN from 18:00 Sat. WRAP closed ~16 h 40 min. Wind warn ended 08:00. Rain at 09:54 G65 PK67 (08:54 G52 PK69). No newer full METAR by 10:40. PoP 94–87 at 11–14. Gusts ~61 grid at 11–12 / ~56 at 13 / ~54 at 14, METAR NE 44 G 65, PK 67 at 09:20. Session peak 93 at 19:59 Sat. Vis 1.5 SM. Urban flood warn to 13:00.
+Copy-paste: IN from 18:00 Sat. WRAP closed ~17 h 15 min. Wind warn ended 08:00. Light rain at 10:54 G59 PK61 (09:54 G65 PK67). PoP 94–87 at 11–14. Gusts ~61 grid at 11–12 / ~56 at 13 / ~54 at 14, METAR NNE 43 G 59, PK 61 at 10:39. Session peak 93 at 19:59 Sat. Vis 2.5 SM. Urban flood warn to 13:00.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 11:15 EDT Sun 27 Sep 2026 — off-slot refresh. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 10:54: 15 °C NNE 43 G59, -RA/mist, 2.5 SM, PK 61 at 10:39. Prior 09:54: RA 1.5 SM G65 PK 67 at 09:20. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 17 °C 11–14, PoP 94–87, gust ~61 at 11–12 / ~56 at 13 / ~54 at 14. IN from 18:00 Sat. WRAP closed ~17 h 15 min. Wind warning ended 08:00. Urban flood warn through 13:00. Flood Watch through 02:00 Tue.
 - 10:40 EDT Sun 27 Sep 2026 — :40 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 09:54: 15 °C NE 44 G65, rain/fog-mist, 1.5 SM, PK 67 at 09:20. No newer full METAR by 10:40. Prior 08:54: RA 1.25 SM G52 PK 69 at 07:58. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 17 °C 10–14, PoP 95–87, gust ~63 at 09–10 / ~61 at 11–12 / ~56 at 13. IN from 18:00 Sat. WRAP closed ~16 h 40 min. Wind warning ended 08:00. Urban flood warn through 13:00. Flood Watch through 02:00 Tue.
 - 10:20 EDT Sun 27 Sep 2026 — :20 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 09:54: 15 °C NE 44 G65, rain/fog-mist, 1.5 SM, PK 67 at 09:20. Prior 08:54: RA 1.25 SM G52 PK 69 at 07:58. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 17 °C 10–14, PoP 95–87, gust ~63 at 09–10 / ~61 at 11–12 / ~56 at 13. IN from 18:00 Sat. WRAP closed ~16 h 20 min. Wind warning ended 08:00. Urban flood warn through 13:00. Flood Watch through 02:00 Tue.
-- 10:18 EDT Sun 27 Sep 2026 — off-slot refresh. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 09:54: 15 °C NE 44 G65, rain/fog-mist, 1.5 SM, PK 67 at 09:20. Prior 08:54: RA 1.25 SM G52 PK 69 at 07:58. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 17 °C 10–14, PoP 95–87, gust ~63 at 09–10 / ~61 at 11–12 / ~56 at 13. IN from 18:00 Sat. WRAP closed ~16 h 18 min. Wind warning ended 08:00. Urban flood warn through 13:00. Flood Watch through 02:00 Tue.
-- 09:40 EDT Sun 27 Sep 2026 — :40 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 08:54: 15 °C NE 35 G52, rain/fog-mist, 1.25 SM, PK 69 at 07:58. No newer full METAR by 09:40. Prior 07:54: +RA 1.5 SM G65 PK 76 at 07:08. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 16 °C 09 / 17 °C 10–13, PoP 95–89, gust ~63 at 09–10 / ~61 at 11–12 / ~55 at 13. IN from 18:00 Sat. WRAP closed ~15 h 40 min. Wind warning ended 08:00. Flood Watch through 02:00 Tue.
-- 09:20 EDT Sun 27 Sep 2026 — :20 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 08:54: 15 °C NE 35 G52, rain/fog-mist, 1.25 SM, PK 69 at 07:58. No newer full METAR by 09:20. Prior 07:54: +RA 1.5 SM G65 PK 76 at 07:08. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 16 °C 09 / 17 °C 10–12, PoP 95–92, gust ~63 at 09–10 / ~61 at 11–12. IN from 18:00 Sat. WRAP closed ~15 h 20 min. Wind warning ended 08:00. Flood Watch through 02:00 Tue.
-- 09:21 EDT Sun 27 Sep 2026 — off-slot refresh. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 08:54: 15 °C NE 35 G52, rain/fog-mist, 1.25 SM, PK 69 at 07:58. Prior 07:54: +RA 1.5 SM G65 PK 76 at 07:08. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 16 °C 09 / 17 °C 10–12, PoP 95–92, gust ~63 at 09–10 / ~61 at 11–12. IN from 18:00 Sat. WRAP closed ~15 h 21 min. Wind warning ended 08:00. Flood Watch through 02:00 Tue.
-- 08:40 EDT Sun 27 Sep 2026 — :40 slot. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 07:54: 14 °C NE 46 G65, heavy rain/fog-mist, 1.5 SM, PK 76 at 07:08. No newer full METAR by 08:40. Prior 06:54: +RA 1.5 SM G80 PK 80 at 06:49. Session peak 93 at 19:59 Sat (also PK 93 at 23:59). Grid 16 °C 08–09 / 17 °C 10–11, PoP 96–94, gust ~61 at 08 / ~63 at 09–10 / ~61 at 11. IN from 18:00 Sat. WRAP closed ~14 h 40 min. Wind warning ended 08:00. Flood Watch through 02:00 Tue.
