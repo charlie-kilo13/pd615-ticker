@@ -1,33 +1,24 @@
-# 02124 board — Porter + today
+# 02124 board — return + outdoor clock
 
-Updated 09:48 EDT Mon 28 Sep 2026
+Updated 10:20 EDT Mon 28 Sep 2026
 
-Simple board. Two cards: Porter leaving Boston + every-two-hour forecast today. PD615 inbound times stay off. No street number. No full names.
+Combined board only. No PD615 times. No street number. No full names. Weather °C / km/h with wind-feel.
 
-## Porter leaving Boston
-**No PD725 departing Boston today.** That number is not a BOS–Toronto flight on today’s schedule.
+## Return card
+**AWAITING NUMBER**
 
-Watching the two Porter flights that do leave Boston for Toronto today:
+No flight number supplied for Monday 28. Reply with the number (and city pair if not BOS).
 
-### PD616 · BOS → YYZ · this morning
-- Scheduled depart **10:05 EDT** Terminal E
-- Tracker estimate **11:22 EDT** (~1 h 17 min late)
-- Scheduled arrive YYZ **12:00 EDT**
-- Status at 09:48: not departed yet · delay showing on the tracker
-- Track: https://www.flightaware.com/live/flight/POE616
+## Outdoor clock · 02124
+**IN** · showers now · ~10 h of rain-likely left
 
-### PD618 · BOS → YYZ · this evening
-- Scheduled depart **19:30 EDT** Terminal E
-- Scheduled arrive YYZ **21:25 EDT**
-- Status at 09:48: still scheduled · no delay posted yet
-- Recent evenings on this flight have been late (last night ~3 h)
-- Logan: FAA work — afternoon and evening delays possible
-- Track: https://www.flightaware.com/live/flight/POE618
+Call: GO / STILL OK / WRAP / IN
+- IN: PoP ≥60 or active rain or gusts 65 / 80+
+- WRAP: PoP 40–59 or gusts 50–64
+- STILL OK: PoP 20–39, gusts under 50
+- GO: PoP under 20, gusts under 50
 
-Reply if 725 is a different booking (time, airport, or date).
-
-## Today every 2 hours (02124)
-NWS hourly issued 07:07 EDT Mon. Temps °C. Wind km/h.
+NWS hourly issued 07:07 EDT Mon. Temps °C. Wind km/h (sustained).
 
 | Time | Temp | Sky | Rain | Wind |
 | --- | --- | --- | --- | --- |
@@ -39,7 +30,12 @@ NWS hourly issued 07:07 EDT Mon. Temps °C. Wind km/h.
 | 20 Mon | 14 °C | Showers likely | 64% | N 19 |
 | 22 Mon | 14 °C | Chance showers | 46% | NW 14 |
 
-Now at Logan (SPECI 09:24): 14 °C, light rain / mist, NNE 31 km/h, vis 4 SM. Flood Watch through 02:00 Tue. Coastal flood advisory is waterfront only — not this block.
+Now at Logan (METAR 06:54): 13 °C, light rain / mist, N 34 km/h gust 45, vis 4 SM. Wind-feel: raw and wet — jacket, not gale. Gusts under the 50 km/h WRAP line.
+
+Flood Watch through late tonight (urban / poor-drainage). Coastal flood advisory is waterfront only — not this block. Rain tapers after 20:00; WRAP by 22:00. Tue improves, drier through Fri (BOX AFD 07:47).
+
+**Copy-paste:** Stay in this morning — showers through the afternoon, rain-likely until about 8pm. 14 °C and raw, wind about 20 km/h not the weekend gusts. Inland block is fine; coastal flood is waterfront only. Easier Tuesday.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
+BOX AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD

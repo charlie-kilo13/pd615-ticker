@@ -11,7 +11,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>02124 — Porter + today</title>
+<title>02124 — return + outdoor clock</title>
 <style>
   :root { color-scheme: dark; }
   html, body { height: 100%; }
@@ -34,6 +34,8 @@
   .status { font-size: 20px; font-weight: 800; margin: 0 0 12px; line-height: 1.25; }
   .late { color: #ffb020; }
   .ok { color: #3dd68c; }
+  .in { color: #ff6b6b; }
+  .wrap { color: #ffb020; }
   .muted { color: #8aa0b5; }
   .flight { padding: 12px 0; border-top: 1px solid #243040; }
   .flight:first-of-type { border-top: 0; padding-top: 0; }
@@ -64,53 +66,39 @@
 <div id="ptr">Release to refresh</div>
 <header>
   <div class="titles">
-    <h1>02124 — Porter + today</h1>
-    <div class="synced">Last synced <span id="syncedAt">09:48 EDT Mon 28 Sep</span></div>
-    <div class="sub">Two cards · flight + 2-hour forecast · °C / km/h</div>
+    <h1>02124 — return + outdoor clock</h1>
+    <div class="synced">Last synced <span id="syncedAt">10:20 EDT Mon 28 Sep</span></div>
+    <div class="sub">Two cards · awaiting number + outdoor clock · °C / km/h</div>
   </div>
   <button type="button" class="refresh-btn" id="refreshBtn">Refresh</button>
 </header>
 
 <div class="grid">
   <div class="card">
-    <h2>Porter leaving Boston</h2>
-    <div class="status late">PD616 late · PD618 still on time</div>
-    <div class="meta" style="margin-bottom:12px">No PD725 leaves Boston today. Watching the two Porter BOS → YYZ flights on the board.</div>
-
-    <div class="flight">
-      <div class="fn">PD616 · this morning</div>
-      <div class="when late">10:05 → est 11:22</div>
-      <div class="meta">BOS Terminal E → YYZ 12:00 booked<br>Tracker ~1 h 17 min late. Not off the ground yet.</div>
-    </div>
-
-    <div class="flight">
-      <div class="fn">PD618 · this evening</div>
-      <div class="when">19:30</div>
-      <div class="meta">BOS Terminal E → YYZ 21:25 booked<br>Scheduled. No delay posted yet. Recent nights on this flight have run late. Logan afternoon/evening delays possible (FAA work).</div>
-    </div>
-
-    <div class="note">
-      Track PD616: <a href="https://www.flightaware.com/live/flight/POE616">FlightAware</a><br>
-      Track PD618: <a href="https://www.flightaware.com/live/flight/POE618">FlightAware</a><br>
-      Reply if 725 is a different time or airport.
-    </div>
+    <h2>Return</h2>
+    <div class="status muted">AWAITING NUMBER</div>
+    <div class="when muted">—</div>
+    <div class="meta">No flight number for Mon 28. PD615 times are off the board. Reply with the number (and city pair if not BOS).</div>
   </div>
 
   <div class="card">
-    <h2>Today every 2 hours</h2>
-    <div class="status">14 °C · rain now · flood watch on</div>
+    <h2>Outdoor clock · 02124</h2>
+    <div class="status in">IN · showers now · ~10 h left</div>
+    <div class="meta" style="margin-bottom:12px">PoP 20 / 40 / 60 · gusts 50 / 65 / 80+ km/h. Now: 100% showers, gusts 45 — under WRAP wind. Wind-feel raw + wet, not gale.</div>
     <div class="hours">
-      <div class="hour"><div class="t">10</div><div class="v">14°</div><div class="p">100%</div><div class="w">Showers · NE 23</div></div>
-      <div class="hour"><div class="t">12</div><div class="v">15°</div><div class="p">100%</div><div class="w">Showers · NE 21</div></div>
-      <div class="hour"><div class="t">14</div><div class="v">15°</div><div class="p">87%</div><div class="w">Showers · NE 21</div></div>
-      <div class="hour"><div class="t">16</div><div class="v">15°</div><div class="p">83%</div><div class="w">Showers · NE 19</div></div>
-      <div class="hour"><div class="t">18</div><div class="v">14°</div><div class="p">86%</div><div class="w">Showers · NE 19</div></div>
-      <div class="hour"><div class="t">20</div><div class="v">14°</div><div class="p">64%</div><div class="w">Likely · N 19</div></div>
-      <div class="hour"><div class="t">22</div><div class="v">14°</div><div class="p">46%</div><div class="w">Chance · NW 14</div></div>
+      <div class="hour"><div class="t">10</div><div class="v">14°</div><div class="p">100%</div><div class="w">IN · NE 23</div></div>
+      <div class="hour"><div class="t">12</div><div class="v">15°</div><div class="p">100%</div><div class="w">IN · NE 21</div></div>
+      <div class="hour"><div class="t">14</div><div class="v">15°</div><div class="p">87%</div><div class="w">IN · NE 21</div></div>
+      <div class="hour"><div class="t">16</div><div class="v">15°</div><div class="p">83%</div><div class="w">IN · NE 19</div></div>
+      <div class="hour"><div class="t">18</div><div class="v">14°</div><div class="p">86%</div><div class="w">IN · NE 19</div></div>
+      <div class="hour"><div class="t">20</div><div class="v">14°</div><div class="p">64%</div><div class="w">IN · N 19</div></div>
+      <div class="hour"><div class="t">22</div><div class="v">14°</div><div class="p">46%</div><div class="w">WRAP · NW 14</div></div>
     </div>
-    <div class="note">Logan 09:24: light rain / mist, NNE 31 km/h, 4 SM. Rain eases tonight. Flood Watch through 02:00 Tue. Coastal advisory is waterfront only.<br>
+    <div class="note">Logan 06:54: 13 °C, light rain / mist, N 34 gust 45 km/h, 4 SM. Flood Watch late tonight (street puddles). Coastal advisory is waterfront only.<br>
+      Copy: Stay in this morning — showers through the afternoon, rain-likely until about 8pm. 14 °C and raw, wind about 20 km/h not the weekend gusts. Inland block is fine; coastal flood is waterfront only. Easier Tuesday.<br>
       <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711">NWS 02124</a> ·
-      <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital">Hourly</a>
+      <a href="https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital">Hourly</a> ·
+      <a href="https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD">BOX AFD</a>
     </div>
   </div>
 </div>
