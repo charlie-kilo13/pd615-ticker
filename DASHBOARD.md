@@ -1,12 +1,12 @@
 # Storm 02124 — outdoor clock
 
-Updated 07:20 EDT Mon 28 Sep 2026 · NWS digital last good 07:07 Mon · weather every 20 min
+Updated 07:40 EDT Mon 28 Sep 2026 · NWS digital last good 07:07 Mon · weather every 20 min
 
 One board. Storm + log only. PD615 inbound watch complete — removed. Return card Mon 28: AWAITING NUMBER.
 
 ## Now
 - KBOS last full **METAR 06:54 EDT Mon**: light rain / mist, **13 °C**, N **33 km/h** G **44**, vis **4 SM**. PK WND **48** at 06:40 (26 kt). Rain ended 06:19, began again 06:39. Prior full METAR **05:54**: light rain, **13 °C**, N **28 km/h** (no G), vis **7 SM**, PK **50** at 05:06. SPECI **05:10**: overcast, **13 °C**, NNE **35 km/h** G **50**, vis **10 SM**, PK **50** at 05:06. Prior **04:54**: rain ended 04:24, **13 °C**, NNE **31 km/h** G **46**, vis **1 1/2 SM**, PK **50** at 04:44. Session peak **93 at 19:59 Sat**.
-- Grid / hourly: **14 °C** 07–10 Mon. Hourly PoP **100/100/100/100** 07–10 (07:07 digital). Grid gusts ~39 / ~37 / ~35 / ~33 — all **off** 50/65.
+- Grid / hourly: **13 °C** 07 Mon then **14 °C** 08–10. Hourly PoP **100/100/100/100** 07–10 (07:07 digital). Grid gusts off 50/65 through 10 Mon.
 
 ## Alerts
 - High Wind Warning **ended 08:00 Sun**
@@ -17,15 +17,16 @@ One board. Storm + log only. PD615 inbound watch complete — removed. Return ca
 
 ## Clock
 **GO ended 13:00. STILL OK ended 15:00. WRAP ended 18:00 Sat.**
-**IN from 18:00 Sat** — stay in now. WRAP closed (~37 h 20 min ago). Wind warning window closed at 08:00; last full METAR gust **off** the 65 hard-walk line (G 44; PK 48 at 06:40, off the 50 line). Grid gusts **off** 65 through 10 Mon. Rain still on. Vis 4 SM at 06:54. Flood Watch on through 02:00 Tue. BOX AFD 02:33 Mon: windswept rain continues Monday; localized urban / street flooding possible; coastal flood waterfront only.
+**IN from 18:00 Sat** — stay in now. WRAP closed (~37 h 40 min ago). Wind warning window closed at 08:00; last full METAR gust **off** the 65 hard-walk line (G 44; PK 48 at 06:40, off the 50 line). Grid gusts **off** 65 through 10 Mon. Rain still on. Vis 4 SM at 06:54. Flood Watch on through 02:00 Tue. BOX AFD 02:33 Mon: windswept rain continues Monday; localized urban / street flooding possible; coastal flood waterfront only.
 
-Copy-paste: IN from 18:00 Sat. WRAP closed ~37 h 20 min. Wind warn ended 08:00. Light rain / mist at 06:54 N 33 G44 PK48 at 06:40 (05:54 N 28 no G PK50 at 05:06; 05:10 SPECI NNE 35 G50; 04:54 G46 PK50). PoP 100 / 100 / 100 / 100 at 07–10. Gusts ~39 / ~37 / ~35 / ~33 grid (off 50/65), METAR N 33 G 44, PK 48 at 06:40. Session peak 93 at 19:59 Sat. Vis 4 SM. Flood Watch through 02:00 Tue. High surf ended 20:00. Coastal advisory waterfront only.
+Copy-paste: IN from 18:00 Sat. WRAP closed ~37 h 40 min. Wind warn ended 08:00. Light rain / mist at 06:54 N 33 G44 PK48 at 06:40 (05:54 N 28 no G PK50 at 05:06; 05:10 SPECI NNE 35 G50; 04:54 G46 PK50). PoP 100 / 100 / 100 / 100 at 07–10. Gusts off 50/65 grid, METAR N 33 G 44, PK 48 at 06:40. Session peak 93 at 19:59 Sat. Vis 4 SM. Flood Watch through 02:00 Tue. High surf ended 20:00. Coastal advisory waterfront only.
 
 NWS point: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711
 NWS hourly: https://forecast.weather.gov/MapClick.php?lat=42.2903&lon=-71.0711&FcstType=digital
 NWS AFD: https://forecast.weather.gov/product.php?site=BOX&issuedby=BOX&product=AFD
 
 ## Log
+- 07:40 EDT Mon 28 Sep 2026 — :40 slot / dashboard first. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 06:54 last full: 13 °C N 33 G44, -RA/mist, 4 SM, PK 48 at 06:40. Prior 05:54 N 28 no G, 7 SM, PK 50 at 05:06. SPECI 05:10 NNE 35 G50, 10 SM, PK 50 at 05:06. Prior 04:54 G46 PK 50 at 04:44. Session peak 93 at 19:59 Sat. Grid PoP 100 / 100 / 100 / 100, 13 °C 07 then 14 °C 08–10, gusts off 50/65. IN from 18:00 Sat. WRAP closed ~37 h 40 min. Flood Watch through 02:00 Tue. AFD 02:33: rain continues Mon; urban flood possible; coastal waterfront only.
 - 07:20 EDT Mon 28 Sep 2026 — :20 slot / dashboard first. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 06:54 last full: 13 °C N 33 G44, -RA/mist, 4 SM, PK 48 at 06:40. Prior 05:54 N 28 no G, 7 SM, PK 50 at 05:06. SPECI 05:10 NNE 35 G50, 10 SM, PK 50 at 05:06. Prior 04:54 G46 PK 50 at 04:44. Session peak 93 at 19:59 Sat. Grid PoP 100 / 100 / 100 / 100, gust ~39 / ~37 / ~35 / ~33 (off 50/65). IN from 18:00 Sat. WRAP closed ~37 h 20 min. Flood Watch through 02:00 Tue. AFD 02:33: rain continues Mon; urban flood possible; coastal waterfront only.
 - 07:15 EDT Mon 28 Sep 2026 — :15 off-slot / dashboard first. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 06:54 last full: 13 °C N 33 G44, -RA/mist, 4 SM, PK 48 at 06:40. Prior 05:54 N 28 no G, 7 SM, PK 50 at 05:06. SPECI 05:10 NNE 35 G50, 10 SM, PK 50 at 05:06. Prior 04:54 G46 PK 50 at 04:44. Session peak 93 at 19:59 Sat. Grid PoP 100 / 100 / 100 / 100, gust ~39 / ~37 / ~35 / ~33 (off 50/65). IN from 18:00 Sat. WRAP closed ~37 h 15 min. Flood Watch through 02:00 Tue. AFD 02:33: rain continues Mon; urban flood possible; coastal waterfront only.
 - 06:40 EDT Mon 28 Sep 2026 — :40 slot / dashboard first. Combined board only. PD615 off. Return Mon 28 AWAITING NUMBER. KBOS METAR 05:54 still last full: 13 °C N 28 no G, -RA, 7 SM, PK 50 at 05:06. SPECI 05:10 NNE 35 G50, 10 SM, PK 50 at 05:06. Prior 04:54 G46 PK 50 at 04:44. Prior 03:54 G44 PK 52 at 03:23. Session peak 93 at 19:59 Sat. Grid PoP 83 / 80 / 80 / 82, gust off / off / ~40 / ~42 (off 50/65). IN from 18:00 Sat. WRAP closed ~36 h 40 min. Flood Watch through 02:00 Tue. AFD 02:33: rain continues Mon; urban flood possible; coastal waterfront only.
