@@ -1,6 +1,6 @@
 # 02124 board — return + outdoor clock
 
-Updated 12:15 EDT Mon 28 Sep 2026
+Updated 12:20 EDT Mon 28 Sep 2026
 
 Combined board only. No PD615 times. No street number. No full names. Weather °C / km/h with wind-feel.
 
@@ -18,7 +18,7 @@ Call: GO / STILL OK / WRAP / IN
 - STILL OK: PoP 20–39, gusts under 50
 - GO: PoP under 20, gusts under 50
 
-NWS hourly issued 07:07 EDT Mon (grid pull 12:15 EDT). Temps °C. Wind km/h (sustained).
+NWS hourly issued 07:07 EDT Mon (grid pull 12:20 EDT, BOX 72,98). Temps °C. Wind km/h (sustained).
 
 | Time | Temp | Sky | Rain | Wind |
 | --- | --- | --- | --- | --- |
