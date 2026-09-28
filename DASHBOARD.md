@@ -25,12 +25,12 @@ NWS hourly issued 07:07 EDT Mon. Temps °C. Wind km/h (sustained).
 | 10 Mon | 14 °C | Showers | 100% | NE 23 |
 | 12 Mon | 15 °C | Showers | 100% | NE 21 |
 | 14 Mon | 15 °C | Showers | 87% | NE 21 |
-| 16 Mon | 15 °C | Showers | 83% | NE 19 |
-| 18 Mon | 14 °C | Showers | 86% | NE 19 |
-| 20 Mon | 14 °C | Showers likely | 64% | N 19 |
+| 16 Mon | 15 °C | Showers | 83% | NE 18 |
+| 18 Mon | 14 °C | Showers | 86% | NE 18 |
+| 20 Mon | 14 °C | Showers likely | 64% | N 18 |
 | 22 Mon | 14 °C | Chance showers | 46% | NW 14 |
 
-Now at Logan (METAR 06:54): 13 °C, light rain / mist, N 34 km/h gust 45, vis 4 SM. Wind-feel: raw and wet — jacket, not gale. Gusts under the 50 km/h WRAP line.
+Now at Logan (METAR 09:24): 14 °C, light rain / mist, NNE 31 km/h, vis 4 SM. Wind-feel: raw and wet — jacket, not gale. Gusts earlier ~43 km/h, still under the 50 km/h WRAP line.
 
 Flood Watch through late tonight (urban / poor-drainage). Coastal flood advisory is waterfront only — not this block. Rain tapers after 20:00; WRAP by 22:00. Tue improves, drier through Fri (BOX AFD 07:47).
 
