@@ -1,6 +1,6 @@
 # 02124 board — return + outdoor clock
 
-Updated 11:20 EDT Mon 28 Sep 2026
+Updated 11:40 EDT Mon 28 Sep 2026
 
 Combined board only. No PD615 times. No street number. No full names. Weather °C / km/h with wind-feel.
 
@@ -18,7 +18,7 @@ Call: GO / STILL OK / WRAP / IN
 - STILL OK: PoP 20–39, gusts under 50
 - GO: PoP under 20, gusts under 50
 
-NWS hourly issued 07:07 EDT Mon (grid pull 15:20 UTC). Temps °C. Wind km/h (sustained).
+NWS hourly issued 07:07 EDT Mon (grid pull 15:40 UTC). Temps °C. Wind km/h (sustained).
 
 | Time | Temp | Sky | Rain | Wind |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ NWS hourly issued 07:07 EDT Mon (grid pull 15:20 UTC). Temps °C. Wind km/h (sus
 | 22 Mon | 14 °C | Chance showers | 46% | NW 14 |
 | 00 Tue | 14 °C | Chance showers | 29% | NW 13 |
 
-Now at Logan (METAR 10:54): 14 °C, light rain / mist, NNE 31 km/h, vis 4 SM. Wind-feel: raw and wet — jacket, not gale. Mid-morning peak gust 26 kt (~48 km/h) at Logan; inland sustained still under WRAP. Peak earlier ~48 km/h on the waterfront, not this block.
+Now at Logan (METAR 10:16): 14 °C, light rain / mist, NNE 31 km/h, vis 2.5 SM. Wind-feel: raw and wet — jacket, not gale. Peak gust 26 kt (~48 km/h) at 09:39; inland sustained still under WRAP. Peak earlier ~48 km/h on the waterfront, not this block.
 
 Flood Watch through late tonight (urban / poor-drainage). Coastal flood advisory is waterfront only — not this block. Rain tapers after 20:00; WRAP by 22:00; STILL OK around midnight. Tue improves, drier through Fri (BOX AFD 07:47).
 
